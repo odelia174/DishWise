@@ -80,10 +80,9 @@ DishWise היא אפליקציית Web מבוססת בינה מלאכותית ש
 - Pydantic
 
 ## התקנה
-
 ```bash
-git clone <your-repository-url>
-cd dishwise
+git clone https://github.com/odelia174/DishWise.git
+cd DishWise
 python -m venv venv
 ```
 
